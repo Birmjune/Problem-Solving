@@ -1,3 +1,5 @@
+# solved
+
 N, M, K = map(int, input().split())
 infection = list(map(int, input().split()))
 infection.sort()
